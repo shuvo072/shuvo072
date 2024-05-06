@@ -1,4 +1,4 @@
-[![Software Engineer](https://img.shields.io/badge/Backend-Developer-blue.svg)](https://mhshuvo.dev/)
+[![Software Engineer](https://img.shields.io/badge/Software-Engineer-blue.svg)](https://mhshuvo.dev/)
 
 <h1 align="center">Hi 👋, I'm Md. Mehadi Hasan Shuvo</h1>
 <h3 align="center">A seasoned Software Engineer with a deep-rooted passion for Backend Development and DevOps tools.</h3>
