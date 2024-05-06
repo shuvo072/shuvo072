@@ -1,7 +1,7 @@
 [![Software Engineer](https://img.shields.io/badge/Backend-Developer-blue.svg)](https://mhshuvo.dev/)
 
 <h1 align="center">Hi 👋, I'm Md. Mehadi Hasan Shuvo</h1>
-<h3 align="center">A seasoned software engineer with a deep-rooted passion for backend development.</h3>
+<h3 align="center">A seasoned software engineer with a deep-rooted passion for Backend Development and DevOps tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvo072&label=Profile%20views&color=0e75b6&style=flat" alt="shuvo072" /> </p>
 
@@ -43,7 +43,7 @@
 
 <h3 align="left">💻Work Experience</h3>
  
-  - Software Engineer, Cloud Software, Intercloud Limited, October 2022 - Present
+  - Sr. Software Engineer, Cloud Software, Intercloud Limited, October 2022 - Present
 
 <hr>
 
