@@ -43,7 +43,8 @@
 
 <h3 align="left">💻Work Experience</h3>
  
-  - Sr. Software Engineer, Cloud Software, Intercloud Limited, October 2022 - Present
+  - DevOps Engineer, NexGen Cloud, July 2024 - Present
+  - Sr. Software Engineer, Cloud Software, Intercloud Limited, October 2022 - July 2024
 
 <hr>
 
