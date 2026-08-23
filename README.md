@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About me
 
-- 🔧 **DevOps Engineer @ NexGen Cloud** — I own production deployments, design highly-available systems, automate CI/CD end-to-end, and build the observability that keeps everything visible.
+- 🔧 **DevOps Engineer @ NexGen Cloud** with **5+ years** across DevOps and backend — I own production deployments, design highly-available systems, automate CI/CD end-to-end, and build the observability that keeps everything visible.
 - 🧱 Backend background — Python, Go, FastAPI, distributed queues, and the services that run on Kubernetes.
 - 🎓 Pursuing an **M.Sc in CSE at BUET** (part-time).
 - 💬 Ask me about **Kubernetes, Ansible, GitOps / ArgoCD, observability, OpenStack, and high-availability infrastructure**.
@@ -81,6 +81,7 @@
 - **DevOps Engineer** — NexGen Cloud · Aug 2024 – Present
 - **Sr. Software Engineer** — Intercloud Limited · Apr 2024 – Jul 2024
 - **Software Engineer** — Intercloud Limited · Oct 2022 – Mar 2023
+- **Trainee Software Engineer** — BJIT Group · Jan 2022 – Oct 2022
 
 ### 🎓 Education
 
